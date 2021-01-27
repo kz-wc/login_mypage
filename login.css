@@ -1,0 +1,39 @@
+.main-block {
+  max-width: 400px;
+}
+.error_message{
+  background-color: #ffb3bf;
+  color: #ff1a3c;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+form {
+  margin: 5px 20px ;
+}
+.data_entry{
+  width: 260px;
+}
+form div {
+  margin: 0 auto;
+  margin-top: 30px;
+}
+form p{
+  margin: 0px;
+}
+.form_text {
+  padding: 4px;
+  width: 250px;
+}
+.form_text {
+  background: #fff;
+  border: 1px solid #dfdfdf;
+  border-radius: 3px;
+}
+.submit {
+  display: block;
+  margin: 0 auto;
+  margin-top:25px;
+}

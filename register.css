@@ -1,0 +1,36 @@
+form {
+  margin: 5px 20px ;
+}
+form div {
+  margin-top: 30px;
+}
+form p{
+  margin: 0px;
+}
+.required {
+  background-color: #31A263;
+  color: white;
+  display: inline;
+  font-size: 14px;
+  margin-right: 5px;
+  padding: 0px 5px;
+}
+.form_text {
+  padding: 4px;
+  width: 250px;
+}
+.form_text, textarea {
+  background: #fff;
+  border: 1px solid #dfdfdf;
+  border-radius: 3px;
+}
+textarea {
+  height: 80px;
+  resize: vertical;
+  width: 65%;
+}
+.submit {
+  display: block;
+  margin: 0 auto;
+  margin-top:25px;
+}

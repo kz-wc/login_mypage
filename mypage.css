@@ -1,0 +1,46 @@
+.main-block {
+  max-width: 700px;
+}
+.main-block__body{
+  margin: 0px 10px;
+}
+h2 {
+  border: none;
+  margin: 0 auto;
+  width: 100px;
+}
+.h2_and_logout {
+  border-bottom: 2px solid limegreen;
+  margin: 0 auto;
+  position: relative;
+}
+#logout {
+  color: gray;
+  font-size: 14px;
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+.profile {
+  margin: 0 auto;
+  width:70%;
+}
+#profile_left{
+  display: inline-block;
+}
+.profile_photo {
+  border: 1px solid dimgray;
+  max-width: 120px;
+}
+#profile_right{
+  display: inline-block;
+  margin-left: 30px;
+  max-width: 300px;
+}
+.submit {
+  display: block;
+  margin: 0 auto;
+  margin-top:25px;
+  width: 50%;
+}
